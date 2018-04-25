@@ -18,3 +18,4 @@ Your coworkers have already built out a __PetsPage__ component to render out a l
 > Note: the tests do no check for the routes. They only test the individual components. You will need to manually check that the routes are working in the browser by running `npm install && npm start` and going to localhost:3000
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-redux-nested-routes-lab'>React Redux Nested Routes Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Nested Routes Lab</p>
